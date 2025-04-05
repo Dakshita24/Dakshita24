@@ -54,5 +54,7 @@ My interests span across Cybersecurity, AI, Web3, Software Development, Research
 
 ## Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshita-pal/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dakshitapal902@gmail.com)
+
 
 
