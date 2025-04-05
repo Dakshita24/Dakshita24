@@ -1,4 +1,4 @@
-# Hello! 
+# Hi there! 
 
 I’m a junior at the University of Maryland, pursuing a major in Computer Science and a minor in Statistics. I'm passionate about promoting diversity in computing and am actively involved in several organizations, including Iribe’s Inclusion for Diversity in Computing (I4C) at UMD, Break Through Tech, Women in Cybersecurity, Girls Who Code, the Association for Women in Computing, and Rewriting the Code.
 
