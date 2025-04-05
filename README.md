@@ -1,6 +1,6 @@
 # Hello! 
 
-I’m a junior at the University of Maryland, pursuing a dual degree in Computer Science and Statistics. I'm passionate about promoting diversity in computing and am actively involved in several organizations, including Iribe’s Inclusion for Diversity in Computing (I4C) at UMD, Break Through Tech, Women in Cybersecurity, Girls Who Code, the Association for Women in Computing, and Rewriting the Code.
+I’m a junior at the University of Maryland, pursuing a major in Computer Science and a minor in Statistics. I'm passionate about promoting diversity in computing and am actively involved in several organizations, including Iribe’s Inclusion for Diversity in Computing (I4C) at UMD, Break Through Tech, Women in Cybersecurity, Girls Who Code, the Association for Women in Computing, and Rewriting the Code.
 
 I was honored to be selected as a Grace Hopper Celebration scholar, and it was a truly inspiring experience. I had the opportunity to connect with passionate women in tech, hear their unique stories, and learn about the different paths they took into the field. Their experiences encouraged me to continue paving a strong and impactful path of my own in technology!
 
