@@ -53,5 +53,6 @@ My interests span across Cybersecurity, AI, Web3, Software Development, Research
 ![ARX](https://img.shields.io/badge/ARX-003B6F?style=flat)
 
 ## Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshita-pal/)
 
 
