@@ -9,6 +9,9 @@ My interests span across Cybersecurity, AI, Web3, Software Development, Research
 ## Resume
 [View My Resume](./DakshitaPal_Resume.pdf)
 
+## Statement of diveristy
+[View My Statement](./Statement_of_diveristy.pdf)
+
 ## Skills
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
