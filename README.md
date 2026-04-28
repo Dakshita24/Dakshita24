@@ -6,6 +6,9 @@ I was honored to be selected as a Grace Hopper Celebration scholar, and it was a
 
 My interests span across Cybersecurity, AI, Web3, Software Development, Research and Leadership.
 
+## Resume
+[View My Resume](./DakshitaPal_Resume.pdf)
+
 ## Skills
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
